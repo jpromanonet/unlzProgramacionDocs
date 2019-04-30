@@ -2,13 +2,13 @@
 
 * [INICIO](README.md)
 
-## Apuntes Por Clase
-
-* [Untitled](apuntes-por-clase/untitled.md)
-
 ## Materias
 
 * [Untitled](materias/untitled.md)
+
+## Apuntes Por Clase
+
+* [Untitled](apuntes-por-clase/untitled.md)
 
 ## Recursos Extra
 

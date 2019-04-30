@@ -6,6 +6,8 @@
 
 * [1° Cuatrimestre](materias/untitled/README.md)
   * [Logica y Algoritmia](materias/untitled/logica-y-algoritmia.md)
+  * [Programacion C](materias/untitled/programacion-c.md)
+  * [Intro a la informática](materias/untitled/intro-a-la-informatica.md)
 
 ## Apuntes Por Clase
 

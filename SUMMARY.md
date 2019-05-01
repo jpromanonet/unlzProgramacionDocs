@@ -12,9 +12,18 @@
   * [Arquitectura de Computadoras](materias/2-cuatrimestre/arquitectura-de-computadoras.md)
   * [Lectura de Requisitos - UML](materias/2-cuatrimestre/lectura-de-requisitos-uml.md)
   * [Programacion II - Java](materias/2-cuatrimestre/programacion-ii-java.md)
-* [3° Cuatrimestre](materias/3-cuatrimestre.md)
-* [4° Cuatrimestre](materias/4-cuatrimestre.md)
-* [5° Cuatrimestre](materias/5-cuatrimestre.md)
+* [3° Cuatrimestre](materias/3-cuatrimestre/README.md)
+  * [Sistemas Operativos](materias/3-cuatrimestre/sistemas-operativos.md)
+  * [Seguridad](materias/3-cuatrimestre/seguridad.md)
+  * [Programacion III - Fundamentos del entorno .NET y C\#](materias/3-cuatrimestre/programacion-iii-fundamentos-del-entorno-.net-y-c.md)
+* [4° Cuatrimestre](materias/4-cuatrimestre/README.md)
+  * [Programacion IV - ASP.NET](materias/4-cuatrimestre/programacion-iv-asp.net.md)
+  * [Aplicaciones Web](materias/4-cuatrimestre/aplicaciones-web.md)
+  * [Tecnologias JAVA](materias/4-cuatrimestre/tecnologias-java.md)
+* [5° Cuatrimestre](materias/5-cuatrimestre/README.md)
+  * [Etica Profesional](materias/5-cuatrimestre/etica-profesional.md)
+  * [PPS Pasantía](materias/5-cuatrimestre/pps-pasantia.md)
+  * [Taller Integrador](materias/5-cuatrimestre/taller-integrador.md)
 
 ## Apuntes Por Clase
 

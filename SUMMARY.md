@@ -32,4 +32,6 @@
 ## Recursos Extra
 
 * [Aprender a codear.](recursos-extra/aprender-a-codear..md)
+* [Bases de Datos](recursos-extra/bases-de-datos.md)
+* [Conocimiento General](recursos-extra/conocimiento-general.md)
 

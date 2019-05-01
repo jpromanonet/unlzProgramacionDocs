@@ -27,7 +27,11 @@
 
 ## Apuntes Por Clase
 
-* [Untitled](apuntes-por-clase/untitled.md)
+* [1° Cuatrimestre](apuntes-por-clase/untitled.md)
+* [2° Cuatrimestre](apuntes-por-clase/2-cuatrimestre.md)
+* [3° Cuatrimestre](apuntes-por-clase/3-cuatrimestre.md)
+* [4° Cuatrimestre](apuntes-por-clase/4-cuatrimestre.md)
+* [5° Cuatrimestre](apuntes-por-clase/5-cuatrimestre.md)
 
 ## Recursos Extra
 

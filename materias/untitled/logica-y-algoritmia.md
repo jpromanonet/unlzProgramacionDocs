@@ -1,2 +1,0 @@
-# Logica y Algoritmia
-

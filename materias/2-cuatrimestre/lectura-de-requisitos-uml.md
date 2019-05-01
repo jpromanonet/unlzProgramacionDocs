@@ -1,2 +1,0 @@
-# Lectura de Requisitos - UML
-

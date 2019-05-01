@@ -72,11 +72,26 @@
 
 ## Apuntes Por Clase
 
-* [1° Cuatrimestre](apuntes-por-clase/untitled.md)
-* [2° Cuatrimestre](apuntes-por-clase/2-cuatrimestre.md)
-* [3° Cuatrimestre](apuntes-por-clase/3-cuatrimestre.md)
-* [4° Cuatrimestre](apuntes-por-clase/4-cuatrimestre.md)
-* [5° Cuatrimestre](apuntes-por-clase/5-cuatrimestre.md)
+* [1° Cuatrimestre](apuntes-por-clase/untitled/README.md)
+  * [Logica y Algoritmia](apuntes-por-clase/untitled/logica-y-algoritmia.md)
+  * [Programacion I - C y C++](apuntes-por-clase/untitled/programacion-i-c-y-c++.md)
+  * [Intro a la Informatica](apuntes-por-clase/untitled/intro-a-la-informatica.md)
+* [2° Cuatrimestre](apuntes-por-clase/2-cuatrimestre/README.md)
+  * [Arquitectura de Computadoras](apuntes-por-clase/2-cuatrimestre/arquitectura-de-computadoras.md)
+  * [Lectura de requisitos - UML](apuntes-por-clase/2-cuatrimestre/lectura-de-requisitos-uml.md)
+  * [Programacion II - Java](apuntes-por-clase/2-cuatrimestre/programacion-ii-java.md)
+* [3° Cuatrimestre](apuntes-por-clase/3-cuatrimestre/README.md)
+  * [Untitled](apuntes-por-clase/3-cuatrimestre/untitled.md)
+  * [Untitled](apuntes-por-clase/3-cuatrimestre/untitled-1.md)
+  * [Untitled](apuntes-por-clase/3-cuatrimestre/untitled-2.md)
+* [4° Cuatrimestre](apuntes-por-clase/4-cuatrimestre/README.md)
+  * [Untitled](apuntes-por-clase/4-cuatrimestre/untitled.md)
+  * [Untitled](apuntes-por-clase/4-cuatrimestre/untitled-1.md)
+  * [Untitled](apuntes-por-clase/4-cuatrimestre/untitled-2.md)
+* [5° Cuatrimestre](apuntes-por-clase/5-cuatrimestre/README.md)
+  * [Untitled](apuntes-por-clase/5-cuatrimestre/untitled-2.md)
+  * [Untitled](apuntes-por-clase/5-cuatrimestre/untitled-1.md)
+  * [Untitled](apuntes-por-clase/5-cuatrimestre/untitled.md)
 
 ## Recursos Extra
 

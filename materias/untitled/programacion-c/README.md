@@ -1,4 +1,6 @@
 # Programacion I - C y C++
 
-[LINK](https://github.com/jpromanonet/unlzProgramacionDocs/blob/docs/Manual_de_Bolsillo_C_con_Ejercicios.pdf)
+Link para ver online
+
+{% file src="../../../.gitbook/assets/manual\_de\_bolsillo\_c\_con\_ejercicios.pdf" caption="Manual de Bolsillo de C" %}
 

@@ -20,5 +20,9 @@ Son programas semi-acelerados que te enseñan desde lo más básico hasta lo má
 
 {% embed url="https://www.youtube.com/channel/UC5Wi\_NYysX-LfcqT3Hq9Faw" %}
 
+## Ciencias de la computación
+
+{% embed url="https://teachyourselfcs.com" %}
+
 
 

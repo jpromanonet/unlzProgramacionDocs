@@ -74,7 +74,8 @@
 
 * [1° Cuatrimestre](apuntes-por-clase/untitled/README.md)
   * [Logica y Algoritmia](apuntes-por-clase/untitled/logica-y-algoritmia.md)
-  * [Programacion I - C y C++](apuntes-por-clase/untitled/programacion-i-c-y-c++.md)
+  * [Programacion I - C y C++](apuntes-por-clase/untitled/programacion-i-c-y-c++/README.md)
+    * [clase04 \| 02/05/2019](apuntes-por-clase/untitled/programacion-i-c-y-c++/clase04-or-02-05-2019.md)
   * [Intro a la Informatica](apuntes-por-clase/untitled/intro-a-la-informatica.md)
 * [2° Cuatrimestre](apuntes-por-clase/2-cuatrimestre/README.md)
   * [Arquitectura de Computadoras](apuntes-por-clase/2-cuatrimestre/arquitectura-de-computadoras.md)

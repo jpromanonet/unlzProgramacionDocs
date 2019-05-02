@@ -6,3 +6,5 @@ Podes encontrar los ejercicios resueltos en el siguiente link:
 
 {% file src="../../../.gitbook/assets/manual\_de\_bolsillo\_c\_con\_ejercicios.pdf" caption="Manual de Bolsillo de C" %}
 
+
+

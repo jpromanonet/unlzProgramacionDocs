@@ -4,6 +4,10 @@ description: Material de estudio de Logica y Algoritmia
 
 # Material de Estudio
 
+## Algoritmo
+
+{% file src="../../../.gitbook/assets/algoritmo.pptx" %}
+
 ## Lista de videos para aprender diagrama de flujo
 
 {% embed url="https://www.youtube.com/watch?v=KBC5mhbiy6Y&list=PLWtYZ2ejMVJnpjQFWykrPcVOycJLVP2cG" %}

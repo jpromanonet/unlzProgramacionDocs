@@ -14,3 +14,7 @@ servicios.ingenieria.unlz.edu.ar:8091/pluginfile.php/24370/mod\_resource/content
 
 {% file src="../../../.gitbook/assets/introduccion-a-la-informatica-unidad-1-conceptos-basicos.pdf" %}
 
+## Unidad II
+
+{% file src="../../../.gitbook/assets/introduccion-a-la-informatica-sistemas-de-numeracion.pptx" %}
+

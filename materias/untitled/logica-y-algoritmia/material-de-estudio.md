@@ -16,6 +16,8 @@ description: Material de estudio de Logica y Algoritmia
 
 Si bien esto no tiene relación con la matería fue explicado en clase y es tema de parcial, les dejo los videos que nos pasaron en clase.
 
+{% file src="../../../.gitbook/assets/binario-ascii.docx" %}
+
 {% embed url="https://www.youtube.com/watch?v=c-hyLLdDt7I" %}
 
 {% embed url="https://www.youtube.com/watch?v=3aVzD1le7bI" %}

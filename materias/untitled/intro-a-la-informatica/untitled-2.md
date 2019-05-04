@@ -16,5 +16,7 @@ servicios.ingenieria.unlz.edu.ar:8091/pluginfile.php/24370/mod\_resource/content
 
 ## Unidad II
 
+{% file src="../../../.gitbook/assets/introduccion-a-la-informatica-sistemas-de-numeracion-ejercicios.pptx" %}
+
 {% file src="../../../.gitbook/assets/introduccion-a-la-informatica-sistemas-de-numeracion.pptx" %}
 

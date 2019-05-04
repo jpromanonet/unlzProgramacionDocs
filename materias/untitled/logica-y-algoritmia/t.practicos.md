@@ -24,3 +24,7 @@
 
 {% file src="../../../.gitbook/assets/ejemplocambiarbombilla.pdf" %}
 
+## TP 1 - Diagrama de Flujo\(resuelto\)
+
+{% file src="../../../.gitbook/assets/tp\_01.pdf" %}
+

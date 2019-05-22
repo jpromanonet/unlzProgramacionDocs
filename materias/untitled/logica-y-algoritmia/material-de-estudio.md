@@ -40,6 +40,8 @@ Si bien esto no tiene relación con la matería fue explicado en clase y es tema
 
 {% embed url="https://www.youtube.com/watch?v=7S\_tz1z\_5bA&feature=youtu.be" %}
 
+{% embed url="https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn" %}
+
 
 
 

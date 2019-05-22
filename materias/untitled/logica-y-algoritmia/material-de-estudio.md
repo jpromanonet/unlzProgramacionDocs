@@ -34,3 +34,13 @@ Si bien esto no tiene relación con la matería fue explicado en clase y es tema
 
 {% embed url="https://www.youtube.com/watch?v=6isDhahJve0" %}
 
+## Intro a SQL
+
+{% embed url="https://www.w3schools.com/sql/" %}
+
+{% embed url="https://www.youtube.com/watch?v=7S\_tz1z\_5bA&feature=youtu.be" %}
+
+
+
+
+

@@ -20,3 +20,13 @@ servicios.ingenieria.unlz.edu.ar:8091/pluginfile.php/24370/mod\_resource/content
 
 {% file src="../../../.gitbook/assets/introduccion-a-la-informatica-sistemas-de-numeracion.pptx" %}
 
+## Unidad III
+
+Evolución histórica de la informática
+
+Evolución histórica del computador \(generaciones de computadores\)
+
+Evolución histórica de los procesadores
+
+
+

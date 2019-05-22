@@ -28,5 +28,11 @@ Evolución histórica del computador \(generaciones de computadores\)
 
 Evolución histórica de los procesadores
 
+## Unidad IV
+
+{% file src="../../../.gitbook/assets/introduccion-a-la-informatica-digitalizacion-de-la-informacion.pdf" %}
+
+{% embed url="https://www.youtube.com/watch?v=PYGvBiz1G8Y" %}
+
 
 

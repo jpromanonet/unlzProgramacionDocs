@@ -14,5 +14,7 @@
 
 {% embed url="https://prezi.com/view/terDPci9EE5uJ0eTivkQ/" %}
 
+#### PDF
 
+{% file src="../../../.gitbook/assets/generacionesdecomputadoras.pdf" %}
 

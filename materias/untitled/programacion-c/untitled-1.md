@@ -5,7 +5,7 @@
 ## TP Final
 
 {% hint style="info" %}
-El trabajo practico final, es un ABM\(Altas, Bajas, Modificaciones\) que guarda empleados, clientes, presupuestos, proveedores, facturas, etc en archivos de formato .dat, más abajo de link voy a dejar el codigo quoteado.
+El trabajo practico final, es un ABM\(Altas, Bajas, Modificaciones\) que guarda empleados, clientes, presupuestos, proveedores, facturas, etc en archivos de formato .dat, más abajo del link voy a dejar el codigo quoteado.
 {% endhint %}
 
 ### Link ABM
@@ -14,6 +14,8 @@ El trabajo practico final, es un ABM\(Altas, Bajas, Modificaciones\) que guarda 
 
 ### Codigo Fuente
 
+{% code-tabs %}
+{% code-tabs-item title="ABM.c" %}
 ```c
 //*********************************************************
 //Fecha: 27/06/2019                                       *
@@ -178,7 +180,7 @@ void menu(){
         printf("                          4) Proveedores               |\n");
         printf("                          5) Clientes                  |\n");
         printf("========================================================\n");
-        printf("                          6) Manuales                  |\n");
+        printf("                          6) Manual                    |\n");
         printf("========================================================\n");
         printf("                          7) Licencia                  |\n");
         printf("========================================================\n");
@@ -187,24 +189,24 @@ void menu(){
         printf("Seleccione una opcion: ");
         scanf("%d",&opcion);
         system("cls");
-
-        // Submenu ABM
-        printf("--------------------------------------------------------\n");
-        printf("--------------------------------------------------------\n");
-        printf("                          1) Alta                      |\n");
-        printf("                          2) Baja                      |\n");
-        printf("                          3) Modificacion              |\n");
-        printf("                          4) Listado                   |\n");
-        printf("                          5) Menu                      |\n");
-        printf("--------------------------------------------------------\n");
-        printf("   Para ver Manual, Licencia o Salir, presiona (5)     |\n");
-        printf("--------------------------------------------------------\n");
-        printf("--------------------------------------------------------\n");
-        printf("Seleccione una opcion: ");
-		scanf("%d",&opcion2);
-        system("cls");
             switch (opcion){
             	case 1:
+            		// Submenu ABM
+            		printf("********************************************************\n");
+    				printf("**                    ABM EMPLEADOS                   **\n");
+    				printf("********************************************************\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("                          1) Alta                      |\n");
+        			printf("                          2) Baja                      |\n");
+        			printf("                          3) Modificacion              |\n");
+        			printf("                          4) Listado                   |\n");
+        			printf("                          5) Menu                      |\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("Seleccione una opcion: ");
+					scanf("%d",&opcion2);
+					system("cls");
                         switch(opcion2){
                             case 1:
                                 altaEmpleados();
@@ -225,6 +227,22 @@ void menu(){
                     break;
                 
 				case 2:
+					// Submenu ABM
+            		printf("********************************************************\n");
+    				printf("**                    ABM PRESUPUESTOS                **\n");
+    				printf("********************************************************\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("                          1) Alta                      |\n");
+        			printf("                          2) Baja                      |\n");
+        			printf("                          3) Modificacion              |\n");
+        			printf("                          4) Listado                   |\n");
+        			printf("                          5) Menu                      |\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("Seleccione una opcion: ");
+					scanf("%d",&opcion2);
+					system("cls");
                         switch(opcion2){
                             case 1:
                                 altaPresupuesto();
@@ -244,6 +262,22 @@ void menu(){
                         }
                     break;
                 case 3:
+                	// Submenu ABM
+            		printf("********************************************************\n");
+    				printf("**                    ABM PRODUCTO                    **\n");
+    				printf("********************************************************\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("                          1) Alta                      |\n");
+        			printf("                          2) Baja                      |\n");
+        			printf("                          3) Modificacion              |\n");
+        			printf("                          4) Listado                   |\n");
+        			printf("                          5) Menu                      |\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("Seleccione una opcion: ");
+					scanf("%d",&opcion2);
+					system("cls");
                         switch(opcion2){
                             case 1:
                                 altaProducto();
@@ -263,6 +297,22 @@ void menu(){
                         }
                     break;
                 case 4:
+                	// Submenu ABM
+            		printf("********************************************************\n");
+    				printf("**                    ABM PROVEEDORES                 **\n");
+    				printf("********************************************************\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("                          1) Alta                      |\n");
+        			printf("                          2) Baja                      |\n");
+        			printf("                          3) Modificacion              |\n");
+        			printf("                          4) Listado                   |\n");
+        			printf("                          5) Menu                      |\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("Seleccione una opcion: ");
+					scanf("%d",&opcion2);
+					system("cls");
                         switch(opcion2){
                             case 1:
                                 altaProveedor();
@@ -282,6 +332,22 @@ void menu(){
                         }
                     break;
                 case 5:
+                	// Submenu ABM
+            		printf("********************************************************\n");
+    				printf("**                    ABM CLIENTES                    **\n");
+    				printf("********************************************************\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("                          1) Alta                      |\n");
+        			printf("                          2) Baja                      |\n");
+        			printf("                          3) Modificacion              |\n");
+        			printf("                          4) Listado                   |\n");
+        			printf("                          5) Menu                      |\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("--------------------------------------------------------\n");
+        			printf("Seleccione una opcion: ");
+					scanf("%d",&opcion2);
+					system("cls");
                         switch(opcion2){
                             case 1:
                                 altaCliente();
@@ -528,7 +594,7 @@ void modifEmpleados(){
 
 // ABM Presupuestos
 
-//// Alta de empleados que se guardan en listaEmpleados.dat
+//// Alta de presupuestos que se guardan en listaEmpleados.dat
 void altaPresupuesto(){
     FILE *pf;
     Presupuesto pres;
@@ -1345,12 +1411,6 @@ void manual(){
 	printf("*                                                                            *\n");
 	printf("*      Lista los clientes con una ficha con sus datos ordenados.             *\n");
 	printf("*============================================================================*\n");
-	printf("*                                                                            *\n");
-	printf("*                                  EXTRAS                                    *\n");
-	printf("*                                                                            *\n");
-	printf("*Cuando seleccionas ver el manual, la licencia o salir, presiona 5 para      *\n");
-	printf("*continuar.                                                                  *\n");
-	printf("*============================================================================*\n");
 	printf("******************************************************************************\n"); 
 	printf("\n");
 	// Presiona para continuar  
@@ -1386,6 +1446,7 @@ void licencia(){
 	system("cls");
     menu();
 }
-
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 

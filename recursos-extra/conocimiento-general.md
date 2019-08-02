@@ -8,9 +8,9 @@
 
 ## Libros 
 
-{% embed url="https://www.softcover.io/" caption="Libros de Git, Ruby, Shell y demas herramientas de desarrollo" %}
+{% file src="../.gitbook/assets/firstyearincode.pdf" caption="First Year Of Code" %}
 
-{% embed url="https://www.learnenough.com/" %}
+{% embed url="https://www.softcover.io/" caption="Libros de Git, Ruby, Shell y demas herramientas de desarrollo" %}
 
 {% embed url="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md" %}
 

@@ -22,7 +22,7 @@
     * [Material de Estudio](materias/2-cuatrimestre/arquitectura-de-computadoras/material-de-estudio.md)
     * [T.Practicos](materias/2-cuatrimestre/arquitectura-de-computadoras/t.practicos.md)
     * [Parciales\|Finales](materias/2-cuatrimestre/arquitectura-de-computadoras/parciales-or-finales.md)
-  * [Lectura de Requisitos - UML](materias/2-cuatrimestre/lectura-de-requisitos-uml/README.md)
+  * [Requisitos - UML](materias/2-cuatrimestre/lectura-de-requisitos-uml/README.md)
     * [Material de Estudio](materias/2-cuatrimestre/lectura-de-requisitos-uml/material-de-estudio.md)
     * [T.Practicos](materias/2-cuatrimestre/lectura-de-requisitos-uml/t.practicos.md)
     * [Parciales\|Finales](materias/2-cuatrimestre/lectura-de-requisitos-uml/parciales-or-finales.md)

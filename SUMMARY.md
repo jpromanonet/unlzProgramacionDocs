@@ -84,6 +84,7 @@
   * [Lectura de requisitos - UML](apuntes-por-clase/2-cuatrimestre/lectura-de-requisitos-uml/README.md)
     * [Clase 01 \| 13/08/2019](apuntes-por-clase/2-cuatrimestre/lectura-de-requisitos-uml/clase-01-or-13-08-2019.md)
     * [Clase 02 \| 20/08/2019](apuntes-por-clase/2-cuatrimestre/lectura-de-requisitos-uml/clase-02-or-20-08-2019.md)
+    * [Clase 03 \| 27/08/2019](apuntes-por-clase/2-cuatrimestre/lectura-de-requisitos-uml/clase-03-or-27-08-2019.md)
   * [Programacion II - Java](apuntes-por-clase/2-cuatrimestre/programacion-ii-java.md)
 * [3° Cuatrimestre](apuntes-por-clase/3-cuatrimestre/README.md)
   * [Sistemas Operativos](apuntes-por-clase/3-cuatrimestre/untitled.md)

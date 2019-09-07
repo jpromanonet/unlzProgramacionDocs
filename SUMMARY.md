@@ -81,6 +81,7 @@
   * [Arquitectura de Computadoras](apuntes-por-clase/2-cuatrimestre/arquitectura-de-computadoras/README.md)
     * [Clase 01 \| 24/08/2019](apuntes-por-clase/2-cuatrimestre/arquitectura-de-computadoras/clase-01-or-24-08-2019.md)
     * [Clase 02 \| 31/08/2019](apuntes-por-clase/2-cuatrimestre/arquitectura-de-computadoras/clase-02-or-31-08-2019.md)
+    * [Clase 03 \| 07/09/2019](apuntes-por-clase/2-cuatrimestre/arquitectura-de-computadoras/clase-03-or-07-09-2019.md)
   * [Lectura de requisitos - UML](apuntes-por-clase/2-cuatrimestre/lectura-de-requisitos-uml/README.md)
     * [Clase 01 \| 13/08/2019](apuntes-por-clase/2-cuatrimestre/lectura-de-requisitos-uml/clase-01-or-13-08-2019.md)
     * [Clase 02 \| 20/08/2019](apuntes-por-clase/2-cuatrimestre/lectura-de-requisitos-uml/clase-02-or-20-08-2019.md)

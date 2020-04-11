@@ -1,6 +1,6 @@
 # Material de Estudio
 
-## Clases
+## Documentos de los tutoriales y las clases virtuales
 
 ### Clase 1
 

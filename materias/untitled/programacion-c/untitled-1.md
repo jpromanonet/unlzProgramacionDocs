@@ -14,8 +14,7 @@ El trabajo practico final, es un ABM\(Altas, Bajas, Modificaciones\) que guarda 
 
 ### Codigo Fuente
 
-{% code-tabs %}
-{% code-tabs-item title="ABM.c" %}
+{% code title="ABM.c" %}
 ```c
 //*********************************************************
 //Fecha: 27/06/2019                                       *
@@ -1447,6 +1446,5 @@ void licencia(){
     menu();
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 

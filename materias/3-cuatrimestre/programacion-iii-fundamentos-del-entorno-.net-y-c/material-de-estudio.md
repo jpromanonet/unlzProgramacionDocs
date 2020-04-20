@@ -16,5 +16,5 @@
 
 ### Clase 4
 
-
+{% file src="../../../.gitbook/assets/programacion-iii-clase-4.pdf" %}
 

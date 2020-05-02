@@ -10,5 +10,9 @@
 
 {% file src="../../../.gitbook/assets/resumeni\_seguridadinformatica.doc" %}
 
+## Normas ISO
 
+{% file src="../../../.gitbook/assets/material-de-estudio.pdf" %}
+
+{% file src="../../../.gitbook/assets/iso\_27001.pdf" %}
 
